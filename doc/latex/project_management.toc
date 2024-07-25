@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {0.1}Problem Specification}{2}{section.0.1}%
+\contentsline {subsection}{\numberline {0.1.1}Analysing the competition and extracting key points}{2}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {0.1.2}Trello: simple, accessible, but less applicable}{2}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {0.1.3}Jira: robust, scalable, but more complex}{2}{subsection.0.1.3}%
+\contentsline {subsection}{\numberline {0.1.4}Collating the criteria for a successful project management application}{2}{subsection.0.1.4}%
+\contentsline {subsection}{\numberline {0.1.5}Developing the user requirements based off the criteria specified}{2}{subsection.0.1.5}%
+\contentsline {subsection}{\numberline {0.1.6}Developing the system requirements}{3}{subsection.0.1.6}%
+\contentsline {section}{\numberline {0.2}Design}{4}{section.0.2}%
+\contentsline {subsection}{\numberline {0.2.1}Describing and modeling the system’s architecture}{4}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {0.2.2}Describing the system's usability, security and performance}{5}{subsection.0.2.2}%
+\contentsline {subsubsection}{Usability}{5}{section*.3}%
+\contentsline {subsubsection}{Security}{8}{section*.9}%
+\contentsline {subsubsection}{Performance}{8}{section*.10}%
+\contentsline {subsection}{\numberline {0.2.3}Identifying five use-cases}{9}{subsection.0.2.3}%
+\contentsline {subsubsection}{Creating a project}{9}{section*.12}%
+\contentsline {subsubsection}{Viewing a project's details}{9}{section*.14}%
+\contentsline {subsubsection}{Modifying a project's details}{10}{section*.15}%
+\contentsline {subsubsection}{Managing a project's user list}{11}{section*.16}%
+\contentsline {subsubsection}{Viewing a specific project revision}{12}{section*.17}%
+\contentsline {section}{\numberline {0.3}Implementation}{13}{section.0.3}%
+\contentsline {section}{\numberline {0.4}Testing}{14}{section.0.4}%
+\contentsline {subsection}{\numberline {0.4.1}\texttt {test\_create\_user}}{14}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {0.4.2}\texttt {test\_create\_project}}{14}{subsection.0.4.2}%
+\contentsline {subsection}{\numberline {0.4.3}\texttt {test\_update\_project}}{15}{subsection.0.4.3}%
+\contentsline {subsection}{\numberline {0.4.4}\texttt {test\_delete\_revision}}{15}{subsection.0.4.4}%
+\contentsline {subsection}{\numberline {0.4.5}\texttt {test\_get\_user}}{16}{subsection.0.4.5}%
+\contentsline {subsection}{\numberline {0.4.6}\texttt {test\_update\_user}}{16}{subsection.0.4.6}%
+\contentsline {subsection}{\numberline {0.4.7}\texttt {test\_get\_project}}{16}{subsection.0.4.7}%
+\contentsline {subsection}{\numberline {0.4.8}\texttt {test\_get\_project\_users}}{17}{subsection.0.4.8}%
+\contentsline {subsection}{\numberline {0.4.9}\texttt {test\_get\_non\_existent\_project}}{17}{subsection.0.4.9}%
